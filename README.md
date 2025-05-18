@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1225762728765952041/1373585314454704278/standard.gif?ex=682af282&is=6829a102&hm=8bb7e3135260b5402f96bf5fa6528a62a32ed39f538c890a25f88278acde2b91&"  />
+  <img height="200" src="https://raw.githubusercontent.com/wezn/wezn/refs/heads/main/standard.gif"  />
 </div>
 
 ###
